@@ -1,0 +1,14 @@
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/bin/Debug/net9.0/app
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/bin/Debug/net9.0/app.deps.json
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/bin/Debug/net9.0/app.runtimeconfig.json
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/bin/Debug/net9.0/app.dll
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/bin/Debug/net9.0/app.pdb
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/obj/Debug/net9.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/obj/Debug/net9.0/app.AssemblyInfoInputs.cache
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/obj/Debug/net9.0/app.AssemblyInfo.cs
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/obj/Debug/net9.0/app.csproj.CoreCompileInputs.cache
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/obj/Debug/net9.0/app.dll
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/obj/Debug/net9.0/refint/app.dll
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/obj/Debug/net9.0/app.pdb
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/obj/Debug/net9.0/app.genruntimeconfig.cache
+/home/xuwe/Documents/Projects/Projects_Senac_Aulas/Project_Aula_1/app/obj/Debug/net9.0/ref/app.dll
