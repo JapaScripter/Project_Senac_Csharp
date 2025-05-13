@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/Senac.png" alt="Logo do Projeto" width="200" style="border-radius: 100%;" />
+  <img src="assets/images/Senac.png" alt="Logo do Projeto" width="200"/>
 </p>
 
 <h1 align="center">Aulas de C# - Curso Senac</h1>
