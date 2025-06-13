@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_6_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E63A6DD3-4A04-4B14-BBF0-DC692489C23C}|Aula_6_1\\Aula_6_1.csproj|c:\\users\\elias.yymiyashiro\\documents\\projects\\aula_6_1\\aula_6_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63A6DD3-4A04-4B14-BBF0-DC692489C23C}|Aula_6_1\\Aula_6_1.csproj|solutionrelative:aula_6_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63A6DD3-4A04-4B14-BBF0-DC692489C23C}|Aula_6_1\\Aula_6_1.csproj|c:\\users\\elias.yymiyashiro\\documents\\projects\\aula_6_1\\aula_6_1\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63A6DD3-4A04-4B14-BBF0-DC692489C23C}|Aula_6_1\\Aula_6_1.csproj|solutionrelative:aula_6_1\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63A6DD3-4A04-4B14-BBF0-DC692489C23C}|Aula_6_1\\Aula_6_1.csproj|c:\\users\\elias.yymiyashiro\\documents\\projects\\aula_6_1\\aula_6_1\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63A6DD3-4A04-4B14-BBF0-DC692489C23C}|Aula_6_1\\Aula_6_1.csproj|solutionrelative:aula_6_1\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_6_1\\Aula_6_1\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Aula_6_1\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_6_1\\Aula_6_1\\Pessoa.cs",
+              "RelativeToolTip": "Aula_6_1\\Pessoa.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:13:44.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_6_1\\Aula_6_1\\Aluno.cs",
+              "RelativeDocumentMoniker": "Aula_6_1\\Aluno.cs",
+              "ToolTip": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_6_1\\Aula_6_1\\Aluno.cs",
+              "RelativeToolTip": "Aula_6_1\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:18:18.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_6_1\\Aula_6_1\\Program.cs",
+              "RelativeDocumentMoniker": "Aula_6_1\\Program.cs",
+              "ToolTip": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_6_1\\Aula_6_1\\Program.cs",
+              "RelativeToolTip": "Aula_6_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:09:32.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

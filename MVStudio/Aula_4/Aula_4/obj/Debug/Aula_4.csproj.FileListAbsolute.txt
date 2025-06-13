@@ -1,0 +1,7 @@
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_4\Aula_4\bin\Debug\Aula_4.exe.config
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_4\Aula_4\bin\Debug\Aula_4.exe
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_4\Aula_4\bin\Debug\Aula_4.pdb
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_4\Aula_4\obj\Debug\Aula_4.csproj.AssemblyReference.cache
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_4\Aula_4\obj\Debug\Aula_4.csproj.CoreCompileInputs.cache
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_4\Aula_4\obj\Debug\Aula_4.exe
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_4\Aula_4\obj\Debug\Aula_4.pdb

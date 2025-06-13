@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_7_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D75FB7C-0AB0-44AF-BE49-A0596EC56768}|Aula_7_1\\Aula_7_1.csproj|c:\\users\\elias.yymiyashiro\\documents\\projects\\aula_7_1\\aula_7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D75FB7C-0AB0-44AF-BE49-A0596EC56768}|Aula_7_1\\Aula_7_1.csproj|solutionrelative:aula_7_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D75FB7C-0AB0-44AF-BE49-A0596EC56768}|Aula_7_1\\Aula_7_1.csproj|c:\\users\\elias.yymiyashiro\\documents\\projects\\aula_7_1\\aula_7_1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D75FB7C-0AB0-44AF-BE49-A0596EC56768}|Aula_7_1\\Aula_7_1.csproj|solutionrelative:aula_7_1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D75FB7C-0AB0-44AF-BE49-A0596EC56768}|Aula_7_1\\Aula_7_1.csproj|c:\\users\\elias.yymiyashiro\\documents\\projects\\aula_7_1\\aula_7_1\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D75FB7C-0AB0-44AF-BE49-A0596EC56768}|Aula_7_1\\Aula_7_1.csproj|solutionrelative:aula_7_1\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D75FB7C-0AB0-44AF-BE49-A0596EC56768}|Aula_7_1\\Aula_7_1.csproj|c:\\users\\elias.yymiyashiro\\documents\\projects\\aula_7_1\\aula_7_1\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D75FB7C-0AB0-44AF-BE49-A0596EC56768}|Aula_7_1\\Aula_7_1.csproj|solutionrelative:aula_7_1\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_7_1\\Aula_7_1\\Gato.cs",
+              "RelativeDocumentMoniker": "Aula_7_1\\Gato.cs",
+              "ToolTip": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_7_1\\Aula_7_1\\Gato.cs",
+              "RelativeToolTip": "Aula_7_1\\Gato.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:12:27.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cachorro.cs",
+              "DocumentMoniker": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_7_1\\Aula_7_1\\Cachorro.cs",
+              "RelativeDocumentMoniker": "Aula_7_1\\Cachorro.cs",
+              "ToolTip": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_7_1\\Aula_7_1\\Cachorro.cs",
+              "RelativeToolTip": "Aula_7_1\\Cachorro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:12:49.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_7_1\\Aula_7_1\\Animal.cs",
+              "RelativeDocumentMoniker": "Aula_7_1\\Animal.cs",
+              "ToolTip": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_7_1\\Aula_7_1\\Animal.cs",
+              "RelativeToolTip": "Aula_7_1\\Animal.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:58:26.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_7_1\\Aula_7_1\\Program.cs",
+              "RelativeDocumentMoniker": "Aula_7_1\\Program.cs",
+              "ToolTip": "C:\\Users\\elias.yymiyashiro\\Documents\\Projects\\Aula_7_1\\Aula_7_1\\Program.cs",
+              "RelativeToolTip": "Aula_7_1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:53:51.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

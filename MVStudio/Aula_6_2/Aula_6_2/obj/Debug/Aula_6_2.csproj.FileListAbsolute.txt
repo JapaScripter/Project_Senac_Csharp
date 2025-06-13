@@ -1,0 +1,7 @@
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_6_2\Aula_6_2\obj\Debug\Aula_6_2.csproj.AssemblyReference.cache
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_6_2\Aula_6_2\obj\Debug\Aula_6_2.csproj.CoreCompileInputs.cache
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_6_2\Aula_6_2\bin\Debug\Aula_6_2.exe.config
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_6_2\Aula_6_2\bin\Debug\Aula_6_2.exe
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_6_2\Aula_6_2\bin\Debug\Aula_6_2.pdb
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_6_2\Aula_6_2\obj\Debug\Aula_6_2.exe
+C:\Users\elias.yymiyashiro\Documents\Projects\Aula_6_2\Aula_6_2\obj\Debug\Aula_6_2.pdb
